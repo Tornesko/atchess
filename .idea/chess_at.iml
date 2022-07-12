@@ -9,6 +9,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/atchess/main/templates" />
+        <option value="$MODULE_DIR$/atchess/play/templates" />
       </list>
     </option>
   </component>
