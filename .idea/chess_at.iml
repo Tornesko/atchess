@@ -10,6 +10,7 @@
       <list>
         <option value="$MODULE_DIR$/atchess/main/templates" />
         <option value="$MODULE_DIR$/atchess/play/templates" />
+        <option value="$MODULE_DIR$/atchess/templates" />
       </list>
     </option>
   </component>
